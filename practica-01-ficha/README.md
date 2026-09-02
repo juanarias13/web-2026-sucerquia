@@ -2,9 +2,11 @@
 
 ## Qué hice
 <!-- Dos o tres líneas sobre qué construiste -->
+html basico 
 
 ## Cómo correrlo
 <!-- Los comandos exactos, o el enlace si es una página estática -->
+show preview
 
 ## URL desplegada
 <!-- El enlace donde funciona y se puede jugar -->

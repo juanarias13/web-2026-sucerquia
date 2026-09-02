@@ -9,6 +9,7 @@
 
 ## Herramientas que usé
 <!-- Ej.: GitHub Copilot en VS Code, ChatGPT, Claude, Cursor. Indica también si no usaste ninguna. -->
+ninguna
 
 ## Qué le pedí
 <!-- Escribe el prompt real, no un resumen idealizado -->
@@ -35,6 +36,7 @@
 
 ## Qué escribí yo desde cero
 <!-- Qué partes no delegaste, y por qué decidiste no delegarlas -->
+todo
 
 ## Reflexión
 <!-- ¿Te ahorró tiempo de verdad, o lo perdiste depurando? ¿Volverías a usarlo para esto? -->
