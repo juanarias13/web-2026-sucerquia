@@ -1,14 +1,15 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** juan david arias 
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** juanarias13
 
 ## Sobre mí
 
 <!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
      gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+     me gusta que somos como "dioses" ya que podemos crear todo lo que queramos con codigo, de juego me gustaria hacer alguno que enseñe a programar lo basico para ayudarle a la gente a dar sus primeros pasos y he trabajado con herramientas como js, java, php, phyton y distintos frameworks
 
 ## Progreso de la campaña
 
@@ -36,3 +37,5 @@
 
 <!-- Opcional pero recomendado: una línea por semana sobre qué aprendiste o
      qué te costó. Al final del semestre es sorprendentemente valioso releerla. -->
+     1- aprendimos a crear ramas y hacer pull request para estas
+     
